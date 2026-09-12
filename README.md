@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**RISHABHGUPTAEG/RISHABHGUPTAEG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Rishabh Gupta
 
-Here are some ideas to get you started:
+### Computer Science Engineering (AI & ML) Student | Software Developer | Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/RISHABHGUPTAEG">
+    <img src="https://img.shields.io/badge/GitHub-RISHABHGUPTAEG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://rishabhguptaeg.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=RISHABHGUPTAEG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+</div>
