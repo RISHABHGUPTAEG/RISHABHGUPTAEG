@@ -2,20 +2,18 @@
 
 # 👋 Hi, I'm Rishabh Gupta
 
-### Computer Science Engineering (AI & ML) Student | Software Developer | Problem Solver
+### Computer Science Engineering (AI & ML) Student • Software Developer • Problem Solver
 
 <p>
   <a href="https://github.com/RISHABHGUPTAEG">
     <img src="https://img.shields.io/badge/GitHub-RISHABHGUPTAEG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://rishabhguptaeg.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=RISHABHGUPTAEG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=RISHABHGUPTAEG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -23,136 +21,220 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science Engineering (AI & ML) undergraduate passionate about building practical, scalable, and user-focused software solutions.
+I'm a Computer Science Engineering (AI & ML) undergraduate passionate about
+building practical, scalable, and user-focused software solutions.
 
 - 🎓 Pursuing **B.Tech in Computer Science Engineering (AI & ML)**
-- 💻 Interested in **Software Development, AI/ML & Cloud Technologies**
-- 🚀 Building applications with **Flutter, FastAPI, Python & MongoDB**
-- 🔌 Experienced with **REST APIs, WebSockets, Firebase & WebRTC**
+- 💻 Focused on **Software Development, AI/ML & Cloud Technologies**
+- 🚀 Building applications with **Flutter, Python, FastAPI & MongoDB**
+- ⚡ Working with **REST APIs, WebSockets, Firebase & WebRTC**
 - 🧠 Practicing **DSA, OOP, DBMS, SQL & Computer Networks**
-- 🌱 Continuously learning and improving through real-world projects
-- 🤝 Open to **collaboration, internships and developer opportunities**
+- 🛠️ Learning through hands-on development and real-world projects
+- 🌱 Continuously improving software engineering and problem-solving skills
+- 🤝 Open to **internships, collaborations and developer opportunities**
 
-> **"Build. Learn. Improve. Repeat."**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,dart,sql" />
-</p>
-
-### 📱 Frontend & Mobile
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,react,html,css,js" />
-</p>
-
-### ⚙️ Backend & APIs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django" />
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,render" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" />
-</p>
+> **Build. Learn. Improve. Repeat.**
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Developer Profile
+
+| Area | Focus |
+|---|---|
+| 🎓 Education | B.Tech — CSE (AI & ML) |
+| 💻 Primary Focus | Software Development |
+| 📱 Mobile | Flutter & Dart |
+| ⚙️ Backend | FastAPI & REST APIs |
+| ⚡ Real-Time | WebSockets & WebRTC |
+| 🗄️ Database | MongoDB |
+| ☁️ Cloud | Firebase & Render |
+| 🤖 AI | AI Assistants & AI/ML |
+| 🧠 Fundamentals | DSA • OOP • DBMS • SQL • Networks |
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart" alt="Python C++ Dart"/>
+</p>
+
+**Python • C++ • Dart • SQL**
+
+---
+
+## 📱 Mobile & Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,html,css,js" alt="Flutter HTML CSS JavaScript"/>
+</p>
+
+**Flutter • Dart • HTML • CSS • JavaScript**
+
+---
+
+## ⚙️ Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"/>
+</p>
+
+**FastAPI • REST APIs • WebSockets**
+
+---
+
+## 🗄️ Databases & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,render" alt="MongoDB Firebase Render"/>
+</p>
+
+**MongoDB • Firebase • Render**
+
+---
+
+## 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" alt="Git GitHub VS Code Android Studio Postman"/>
+</p>
+
+**Git • GitHub • VS Code • Android Studio • Postman**
+
+---
+
+## 🌐 Real-Time Technologies
+
+**WebSockets • WebRTC • Real-Time Messaging • Presence Systems •
+Call Signaling • Real-Time Events**
+
+---
+
+## 🧠 Computer Science Fundamentals
+
+**Data Structures & Algorithms • Object-Oriented Programming •
+DBMS • SQL • Operating Systems • Computer Networks**
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
 
-### 📸 SnapVerse
+<td width="50%" valign="top">
 
-A modern social communication application built with Flutter and FastAPI.
+## 📸 SnapVerse
 
-**Key Features**
+### Real-Time Social Communication Platform
+
+A Flutter-based social communication application focused on real-time
+messaging, calling, content sharing and online presence.
+
+### ✨ Key Features
+
 - 💬 Real-time one-to-one messaging
-- 📞 WebRTC audio/video calling
 - ⚡ WebSocket-based communication
-- 👀 Online/offline presence
-- ✍️ Typing indicators
-- 🔔 Real-time events & notifications
-- 🔐 Secure authentication
+- 📞 Audio/video calling with WebRTC
+- 🟢 Online/offline presence
+- ✍️ Real-time typing indicators
+- ✓✓ Sent, delivered and read message events
+- 🔔 Real-time communication events
+- 🎬 Short-form video sharing
+- 👤 User profiles
+- 🔐 Authentication and sessions
 
-**Tech:** Flutter • FastAPI • MongoDB • WebSocket • WebRTC
+**Tech Stack**
+
+`Flutter` `Dart` `FastAPI` `MongoDB`
+`WebSockets` `WebRTC` `Firebase` `Render`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Rishi AI
+## 🤖 Rishi AI
 
-A personal AI assistant designed to provide intelligent assistance and system-level productivity features.
+### Personal AI Assistant
 
-**Key Features**
+A Python-based personal AI assistant focused on intelligent assistance,
+system interaction and productivity.
+
+### ✨ Key Features
+
 - 🎙️ Voice-based interaction
 - 🤖 AI-powered assistance
 - 📁 File management
 - 🖥️ System interaction
 - 🌐 Browser assistance
-- 🎨 Productivity tools
+- 🛠️ Productivity utilities
+- 🎨 Assistant-oriented interface
+- 💻 Desktop-oriented workflow
 
-**Tech:** Python • AI • Eel • HTML • CSS • JavaScript
+**Tech Stack**
+
+`Python` `Eel` `HTML` `CSS`
+`JavaScript` `AI`
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🍽️ Lucknavi Catering App
+<td width="50%" valign="top">
 
-A Flutter application for managing catering menus and generating professional menu PDFs.
+## 🍽️ Lucknavi Catering App
 
-**Key Features**
-- 🍛 Dish & ingredient management
+### Catering Menu & Event Management
+
+A Flutter application designed to simplify catering menu management,
+event details and professional menu generation.
+
+### ✨ Key Features
+
+- 🍛 Dish management
+- 🧂 Ingredient management
 - 📋 Category-based menus
-- 📄 PDF menu generation
-- 📤 WhatsApp/Telegram sharing
-- 🎉 Event & guest management
+- 🎉 Party and event details
+- 👥 Guest management
+- 📅 Event information
+- 📄 Professional PDF generation
+- 📤 Menu sharing
 
-**Tech:** Flutter • Dart • PDF • Firebase
+**Tech Stack**
+
+`Flutter` `Dart` `PDF Generation` `Firebase`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💡 What I Build
+
+I enjoy building practical applications that combine software
+development, real-time communication, AI and automation.
+
+### Areas of Interest
+
+- 📱 Mobile applications
+- ⚡ Real-time systems
+- ⚙️ Backend development
+- 🤖 AI-powered applications
+- ☁️ Cloud technologies
+- 🧠 Problem solving
+- 🏗️ Software architecture
 
 </td>
 
-<td width="50%">
-
-### 🌐 Developer Portfolio
-
-A personal portfolio website showcasing projects, technical skills and developer experience.
-
-**Features**
-- 👨‍💻 Projects showcase
-- 🛠️ Technical skills
-- 📜 Certifications
-- 📱 Responsive design
-- 🔗 Professional contact links
-
-**Tech:** HTML • CSS • JavaScript
-
-</td>
 </tr>
 </table>
 
 ---
 
-## 📸 SnapVerse — Real-Time Social Communication Platform
+# 📸 SnapVerse — Technical Deep Dive
 
 <div align="center">
 
@@ -160,90 +242,60 @@ A personal portfolio website showcasing projects, technical skills and developer
 
 </div>
 
-**SnapVerse** is a real-time social communication application focused on seamless messaging, calling, content sharing and online presence.
+**SnapVerse** is a real-time social communication application focused
+on messaging, calling, content sharing and online presence.
 
-### ✨ Core Features
+The project combines mobile development, backend APIs, real-time
+communication and WebRTC-based calling into a single application.
+
+---
+
+## ✨ Core Features
 
 | Feature | Description |
 |---|---|
-| 💬 Real-Time Chat | Instant one-to-one messaging using WebSockets |
+| 💬 Real-Time Chat | Instant one-to-one messaging |
+| ⚡ WebSockets | Persistent real-time communication |
 | 📞 Audio / Video Calls | Real-time calling with WebRTC |
-| ✍️ Typing Indicator | Live typing status between users |
-| 🟢 Presence | Online / Offline user status |
+| ✍️ Typing Indicator | Live typing status |
+| 🟢 Presence | Online / offline status |
 | ✓✓ Message Status | Sent, delivered and read events |
 | 🎬 Short Videos | Upload and share short-form content |
 | 🔔 Notifications | Real-time communication events |
-| 🔐 Authentication | Secure user authentication and sessions |
+| 🔐 Authentication | User authentication and sessions |
 
-### 🧩 Architecture
+---
+
+## 🏗️ Architecture
 
 ```text
-Flutter Mobile App
-        │
-        │ REST API
-        ▼
-     FastAPI
-        │
-        ├──────────────► MongoDB
-        │
-        └── WebSocket ──► Real-Time Chat
-                │
-                └──────► WebRTC Signaling
-                              │
-                              ▼
-                         Audio / Video
----
+                    ┌──────────────────────┐
+                    │     Flutter App      │
+                    │   Mobile Frontend    │
+                    └───────────┬──────────┘
+                                │
+                 ┌──────────────┴──────────────┐
+                 │                             │
+              REST API                    WebSocket
+                 │                             │
+                 ▼                             ▼
+        ┌────────────────┐           ┌──────────────────┐
+        │    FastAPI     │           │  Real-Time Chat  │
+        │    Backend     │           │   & Presence     │
+        └────────┬───────┘           └──────────────────┘
+                 │
+                 ▼
+        ┌────────────────┐
+        │    MongoDB     │
+        │    Database    │
+        └────────────────┘
 
-## 📊 GitHub Analytics
+                 WebRTC Signaling
+                         │
+                         ▼
+                ┌─────────────────┐
+                │  Audio / Video  │
+                │      Calls      │
+                └─────────────────┘
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RISHABHGUPTAEG&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABHGUPTAEG&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RISHABHGUPTAEG&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RISHABHGUPTAEG&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology — Computer Science Engineering (AI & ML)**  
-Maharana Institute of Professional Studies (MIPS)  
-**Graduation:** 2027
-
----
-
-## 📜 Certifications & Learning
-
-- 🐍 **NPTEL — Python Certification**
-- 📊 **Data Visualization Certification**
-- 🗄️ **Oracle SQL Workshop**
-- 🤖 **Machine Learning Workshop**
-- 💻 Continuous learning in **DSA, AI/ML, Cloud & Software Development**
-
----
-
-## 🎯 Current Focus
-
-```text
-Building        → Real-time & AI-powered applications
-Learning        → Cloud • AI/ML • System Design
-Improving       → DSA • Problem Solving • Backend Development
-Exploring       → Scalable & production-ready applications
+                ```
